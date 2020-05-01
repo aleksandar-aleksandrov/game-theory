@@ -1,6 +1,6 @@
 ## Game Theory @ Yale | [Full Course](https://oyc.yale.edu/economics/econ-159) | [Videos](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
 
-### Lecture 1: Introduction: First Five Lessons
+### Lecture 1: Introduction: First Five Lessons | [Video](https://www.youtube.com/watch?v=nM3rTU927io&list=PL6EF60E1027E1A10B&index=1)
     - What is Game Theory?
         A method of studying strategic situations.
     - What is strategic?
@@ -20,7 +20,7 @@
     - Lesson 5: Yale students are evil! :)
 
 
-### Lecture 2: Putting yourself into other people's shoes
+### Lecture 2: Putting yourself into other people's shoes | [Video](https://www.youtube.com/watch?v=qQ3kFydI_xQ&list=PL6EF60E1027E1A10B&index=2)
     - What are the formal ingredients of a game?
         - Players/Actors - i, j
         - Strategies
@@ -37,7 +37,7 @@
     - Common Knowledge - I know that you know that I know that you know ...
     - Mutual Knowledge != Common Knowledge
 
-### Lecture 3: Iterative deletion and the median-voter theorem | [Video](https://www.youtube.com/watch?v=kqDu0RVWTYw&list=PL6EF60E1027E1A10B&index=4&t=0s)
+### Lecture 3: Iterative deletion and the median-voter theorem | [Video](https://www.youtube.com/watch?v=kqDu0RVWTYw&list=PL6EF60E1027E1A10B&index=3)
     - What is iterative deletion of dominated strategies?
         - Putting yourself into somebody else's shoes in order to exclude strategies which would be dominated based on the subset of decision the other actor(s) might take.
         - The downfall is that it might lead to overthinking of the game.
