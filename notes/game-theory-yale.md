@@ -1,4 +1,4 @@
-## Game Theory @ Yale
+## Game Theory @ Yale [Full Course](https://oyc.yale.edu/economics/econ-159) [Videos](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
 
 ### Lecture 1: Introduction: First Five Lessons
     - What is Game Theory?
