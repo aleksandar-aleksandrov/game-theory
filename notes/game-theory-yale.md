@@ -1,4 +1,4 @@
-## Game Theory @ Yale [Full Course](https://oyc.yale.edu/economics/econ-159) [Videos](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
+## Game Theory @ Yale | [Full Course](https://oyc.yale.edu/economics/econ-159) | [Videos](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B)
 
 ### Lecture 1: Introduction: First Five Lessons
     - What is Game Theory?
@@ -37,4 +37,37 @@
     - Common Knowledge - I know that you know that I know that you know ...
     - Mutual Knowledge != Common Knowledge
 
-### Lecture 3: Iterative deletion and the median-voter theorem
+### Lecture 3: Iterative deletion and the median-voter theorem | [Video](https://www.youtube.com/watch?v=kqDu0RVWTYw&list=PL6EF60E1027E1A10B&index=4&t=0s)
+    - What is iterative deletion of dominated strategies?
+        - Putting yourself into somebody else's shoes in order to exclude strategies which would be dominated based on the subset of decision the other actor(s) might take.
+        - The downfall is that it might lead to overthinking of the game.
+  
+    - Model of politics
+        - 2 candidates which will choose their political stance on a political spectrum (1-10)
+        - Voters vote for the closest candidate. If there is an overlap, voters split for each candidate
+        - Payoffs: Candidates aim to maximize their share of the vote.
+        - Most dominated strategies will be 1 and 10. Both of them are dominated by the remaining 9 positions.
+        - Iterative deletion leads to deletion all but 5 and 6.
+  
+    - Median voter theorem
+        - The MVT predicts that political candidates crowd the center (5 & 6).
+        - Application in economics (e.g. product placements)
+  
+    - Problems with MVT
+        - Voters are not evenly distributed.
+        - Not all groups are voting equally much.
+        - Multiple votes are not accounted for.
+        - Politics is not one-dimensional. People vote for things like character, as well.
+        - Model does not account for multiple candidates.
+        - Voters might not believe candidates and their policies.
+  
+    - Robustness of MVT
+        - Although it is true that the voters are not equally distributed, even a normally distributed voters will lead to the same results.
+        - MVT is generally robust.
+  
+    - Best Response
+            |   | L    | R    |
+            |---|------|------|
+            | U | 5, 1 | 0, 2 |
+            | M | 1, 3 | 4, 1 |
+            | D | 4, 2 | 2, 3 |
